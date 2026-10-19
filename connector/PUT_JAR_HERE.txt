@@ -1,0 +1,1 @@
+Copy mysql-connector-j-xx.jar directly into this folder (not the extracted connector folder).
